@@ -1,5 +1,4 @@
-# jl
-lista canales
+
 #EXTM3U
 #EXTINF:-1,Lat_SD | ANTENA 3
 http://mega.131221.net:1716/Panchito2/YeYgPLPdiy/330361
